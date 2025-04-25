@@ -11140,7 +11140,9 @@ html {
 .bordaImagem{
   border: #000 solid 2px;
 }
-
+#rodape{
+  gap: 16px;
+}
 /* 
 .img_perfil{
   transition: transform 0.1s ease-in-out;
